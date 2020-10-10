@@ -4,6 +4,7 @@ Projeyi çalıştırmadan önce bilgisayarınızda Docker yüklü olduğundan em
 test readme changes
 
 test readme changes - 1 
+test readme changes - 2
 
 ```
 docker run -d --name=docker_grafana -p 3000:3000 grafana/grafana
